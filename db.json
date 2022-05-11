@@ -2,17 +2,63 @@
     "title": "Captain America The First Avenger",
     "casts": [
         {
-        "name": "Chris Evens",
-        "castAs": "Steve Rogers",
-        "image": "./src/assets/cap.jpg"
+            "name": "Chris Evens",
+            "castAs": "Steve Rogers",
+            "image": "./src/assets/cap.jpg"
         },
         {
-        "name": "Hayley Atwell",
-        "castAs": "Peggy Carter",
-        "image": "./src/assets/peggy.jpg"
+            "name": "Hayley Atwell",
+            "castAs": "Peggy Carter",
+            "image": "./src/assets/peggy.jpg"
         },
-        {},
-        {}
+        {
+            "name": "Hayley Atwell",
+            "castAs": "Peggy Carter",
+            "image": "./src/assets/peggy.jpg"
+        },
+        {
+            "name": "Hayley Atwell",
+            "castAs": "Peggy Carter",
+            "image": "./src/assets/peggy.jpg"
+        }
     ],
-    "summery": "The serum amplifies everything that is inside, so good becomes great; bad becomes worse. This is why you were chosen. Because the strong man who has known power all his life may lose respect for that power, but a weak man knows the value of strength and knows... compassion."
-}
+
+    "poster": "./src/assets/capinfrontandposterofthecrew.jpg",
+
+    "summery": "The serum amplifies everything that is inside, so good becomes great; bad becomes worse. This is why you were chosen. Because the strong man who has known power all his life may lose respect for that power, but a weak man knows the value of strength and knows... compassion.",
+
+    "starting_story": "In the present day, researchers in the Arctic Circle uncover the buried wreckage of a large, wing-shaped aircraft and found the artifact known as Tesseract which is one of six infinity stone...",
+
+    "story_begins": "In March 1942, HYDRA forces led by Johann Schmidt invade a stone church in Tønsberg, Norway, seeking a mysterious cosmic artifact known as the Tesseract, which possesses untold powers. Upon discovering the true Tesseract, Schmidt has the Church Keeper who guarded it killed, along with everyone else in the village.",
+
+    "hero_entry": "In 1943, Steve Rogers is once again rejected for military duty on the battlefields of World War II, despite making multiple attempts at different enlistment offices, due to his frail physical appearance and numerous health issues.While attending Stark Expo with Bucky Barnes, Rogers attempts to enlist again.Abraham Erskine allows Rogers to enlist as a candidate of Project Rebirth, a 'super-soldier' experiment where he met Peggy Carter",
+
+    "quote" : "./src/assets/quote2.jpg",
+
+    "cap_small" : "./src/assets/capsmoll.jpg",
+
+    "training" : "During basic training, Erskine's claims that Rogers is the right person for the procedure, but relents after seeing Rogers commit an act of self-sacrificing bravery that is he 'jumped on a grenade' to save others . <br/> Back in Europe, Schmidt and Arnim Zola, using one of his machines, successfully harness the energies of the Tesseract, intending to use the power to fuel Zola's inventions. Meanwhile, Schmidt, having discovered Erskine's location, dispatches an assassin to kill him.",
+
+
+    "experiment" : "In New York City, Erskine subjects Rogers to the super-soldier treatment, putting him in a special chamber where he is injected with the Super Soldier Serum and dosed with 'vita-rays'. Rogers emerges from the chamber taller and with an enhanced physique. <br/> <br/> Heinz Kruger, who shoots Erskine, killing him. Kruger grabs the last vial of the Super-Soldier Serum and escapes the facility into the streets of New York. Rogers runs after Kruger, using his new strength and stamina to run down Kruger's car on foot. Despite attempting to escape in a submarine, Rogers manages to catch Kruger, but the vial of Super Soldier Serum is broken in the process and the assassin immediately commits suicide by cyanide pill before he can be interrogated for information.",
+
+    "after_experiment" : "With Erskine dead and the super-soldier formula lost, the SSR is ordered to join the war and engage HYDRA directly; however, Philips decides to leave Rogers behind and allow scientists to study him in an attempt to rediscover Erskine's formula.<br/> <br/> Meanwhile, Schmidt unveils his new Tesseract-powered weaponry to three Nazi officers sent to oversee his operation, but uses the weapon to kill the officers after they realize that Germany is among a list of Schmidt's intended targets. Then Rogers learns that his best friend Barnes ",
+
+    "quote2" : "./src/assets/quote1.jpg",
+
+    "rescue":  "Rogers refuses to believe that Barnes is dead and becomes determined to mount a solo rescue attempt, receiving help from Carter and Howard Stark, who fly him behind enemy lines. Rogers manages to sneak into HYDRA's main factory where he finds and frees most of the captive soldiers who begin a riot and start escaping while Rogers continues on to find Barnes, who he discovers in a separate room where he was being operated on. <br/> <br/> Schmidt, seeing the prisoners escaping and Rogers moving through the facility, sets the factory to self-destruct to cover HYDRA's operations and evacuate to another facility. After a fierce battle Schmidt and Zola make their escape while Rogers leads Barnes to the roof where they both barely manage to escape the factory themselves before regrouping with the escaped soldiers and marching back to base.",
+
+    "return" : "./src/assets/return.jpg",
+
+    "regain" : "Following the liberation of the Allied prisoners, Rogers gains his superior officers’ respect and acknowledgment as a soldier and is given high rank and the chance to fight as Captain America. Howard Stark outfits Rogers with advanced equipment, including a durable, custom combat uniform and a circular shield made of vibranium. <br/> <br/> In 1945, the team later assaults a train carrying Zola. Rogers and Barnes engage in a fight with the soldiers on the train, during which Barnes falls from the train to his apparent death, while Jones locates Zola on the train and captures him. Rogers is deeply affected by the loss of his best friend and is convinced by Carter to use his sorrow as motivation to put an end to HYDRA for good.",
+
+    "bucky_fell" : "./src/assets/Bucky-Barnes-Death-Fall.webp",
+
+    "redWithCube" : "./src/assets/red_cube2.jpg",
+
+    "climax" : "Rogers climbs aboard the Valkyrie, HYDRA's massive aircraft bomber, as it takes off. During the subsequent fight, a machine containing the Tesseract is damaged. Schmidt physically handles the Tesseract, which opens a wormhole into space, sucking him into it in bright light. The cube falls to the floor, burning through the plane and falling into the ocean. Seeing no way to land the plane without the risk of detonating its weapons, Rogers instead crashes it on the Arctic shelf while making a sorrowful goodbye to Carter, making a promise to take her dancing, knowing he would never be able to make the date.",
+
+    "end" : "Rogers awakens in a 1940s-style hospital room. Deducing from an anachronistic radio broadcast that he was out of place, he flees outside into what is revealed to be present-day Times Square, where Nick Fury tells him he has been 'asleep' for nearly 70 years. ",
+
+    "end_poster" : "./src/assets/capwithshield.jpg"
+ }
